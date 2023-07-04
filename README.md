@@ -1,29 +1,29 @@
 # Aternos AFKBot ✨
-This afk bot will keep your aternos server alive 24/7
+このafkbotは、Aternosサーバーを24時間365日オンラインにし続けるためのものだよ
 
-Simple for keeping an aternos server alive, or trying to get an AFKBot on your server. 
-IT DOESN'T HAVE TO BE AN ATERNOS SERVER too! It can be any server as long as it's cracked. Uses the mineflayer tool created by MannuG. This bot unlike any other will move around, keeping the server alive. I recommend putting the bot in a bedrock casing to keep it from going everywhere and dying.
+Aternosサーバーをオンラインにさせ続けるための簡単なやり方と、サーバーにAFKBotを導入する方法について説明するよ
+でも、Aternosサーバーじゃないといけないわけじゃないよ！クラック版のサーバーであればどんなサーバーでも使えるよ。MannuGが作ったmineflayerっていうツールを使ってるよ。このボットは他のボットとは違って、（botが）動き回りながらサーバーを稼働させるよ。ボットがあちこちに動き回ってしまって死んでしまうのを防ぐために、ボットを岩盤で囲んでおくことをお勧めするよ
 
-Mainly Supports Minecraft version 1.8, 1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15 and 1.16.
+主にMinecraftのバージョン1.8、1.9、1.10、1.11、1.12、1.13、1.14、1.15、および1.16に対応してるよ
 
-# Requirements 🎒
-What You'll need
+# 動作要件 🎒
+必要なもの
 
-1. You will need a Heroku account, just a simple free one will do. Sign up at: https://signup.heroku.com/login
-2. An Aternos server, Any Minecraft Server will do, make sure it has "online-mode"set to false.
-3. A Github account (obviously)
-5. That's all you need!
+1. Herokuアカウントがいるよ。無料のアカウントで大丈夫。https://signup.heroku.com/login からサインアップしてね
+2. Aternosサーバーがいるよ。どんなMinecraftサーバーでも大丈夫だけど、「online-mode」がfalseに設定されてるのを確認してね
+3. GitHubのアカウントがいるよ（当たり前だけど）
+5. 以上が必要だよ
 
-# Setup ⚙
-1. Fork this repository, or clone the repository and make it your own
-2. Change the config file to your own aternos server
-3. Go to https://dashboard.heroku.com/ and create a new application
-4. Once you've created your application, simply go to the "Deploy" section and select the repository that you forked
-5. Select master and click on "Deploy Branch"
-6. Click on the "More" button at the top and click "Restart all Dynos"
-7. Done! Enjoy your free 24/7 aternos server
+# セットアップ ⚙
+1. このリポジトリをフォークするか、リポジトリをクローンして自分のものにしてね
+2. 設定ファイルを自分のAternosサーバーに変えてね
+3. https://dashboard.heroku.com/ で新しいアプリケーションを作ってね
+4. アプリケーションを作ったら、「Deploy」セクションに移動して、フォークしたリポジトリを選択してね
+5. masterを選択して、「Deploy Branch」をクリックしてね
+6. 上にある「More」ボタンをクリックして、「Restart all Dynos」をクリックしてね
+7. 終わり！無料で24時間365日動くaternosサーバーを楽しんでね
 
-# CAUTION ⚠
-Aternos might detect your behavior and they might delete your account!
+# 注意 ⚠
+もしかしたらAternosに気づかれてアカウントがBANされたりするかもしれないよ
 
-You are responsible for your own actions. I do not recommend doing this on your main aternos server!
+完全に自己責任だよ。メインのAternosサーバーで動かすことはお勧めしないよ
